@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DesingLogin</string>
+    <string name="question">¿Recuperar contraseña?</string>
+    <string name="textClick">Click Aquí</string>
+</resources>
